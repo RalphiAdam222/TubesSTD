@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672842133 source:f:\kuliah\semester 5\struktur data vol 2\tugas raksasa\tubesinputmk\main.cpp
+	<iostream>
+	"InputMK.h"
+
+1672635979 f:\kuliah\semester 5\struktur data vol 2\tugas raksasa\tubesinputmk\tubesinputmk.h
+	<iostream>
+
+1672636616 source:f:\kuliah\semester 5\struktur data vol 2\tugas raksasa\tubesinputmk\inputmk.cpp
+	"InputMK.h"
+
+1672636577 f:\kuliah\semester 5\struktur data vol 2\tugas raksasa\tubesinputmk\inputmk.h
+	<iostream>
+
